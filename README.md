@@ -3,6 +3,14 @@ build utilities and installation of updated version of podman on ubuntu
                      
 created for internal use by Jamil Services
 
+~~~bash
+$ cat /etc/lsb-release 
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=22.04
+DISTRIB_CODENAME=jammy
+DISTRIB_DESCRIPTION="Ubuntu 22.04.4 LTS"
+~~~
+
 podman: https://github.com/containers/podman
 
 install:
